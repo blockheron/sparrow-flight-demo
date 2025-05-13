@@ -1,9 +1,13 @@
+layout: page
+title: "Story 3"
+permalink: /stories/story-3
+
 <!DOCTYPE html>
 <html>
     <!-- header -->
 	<head>
         <!-- UPDATE TITLE -->
-        <title>Story 2 | Sparrow Flight</title>
+        <title>Story 3 | Sparrow Flight</title>
 
 		<link rel="icon" type="image/png" href="../img/favicon.png">
         <link rel="stylesheet" type="text/css" href="../styles/global.css">
@@ -16,10 +20,10 @@
         <iframe class="iframe-header" src="../html/header.html" width="100%" scrolling="no"></iframe>
     </head>
     
-    <div class="container-story">
+    <div class="container">
 
     <!-- UPDATE THIS FUNCTION PARAM!!! -->
-    <body onload="storyButtons(2)">
+    <body onload="storyButtons(3)">
     <table class="story-nav">
         <tbody>
         <tr>
@@ -30,10 +34,7 @@
         </tbody>
     </table>
 
-    <img style="margin-top: 30px;" src="https://gallery.eocampaign1.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1740070245637-tumblr_36fa5c6fb3dfd7aa6617248e59443305_89184237_2048.jpg" alt="SPARROW FLIGHT cover"/>
-    <p style="text-align: center;">—</p>
-
-    <h2 class="story-title">Story 2</h2>
+    <h2 class="story-title">Story 3</h2>
     <table style="width: 100%">
         <tbody>
         <tr>
@@ -53,7 +54,7 @@
         <p>Nunc commodo egestas mi nec blandit. Sed odio leo, interdum vel dui at, sodales volutpat purus. Donec non tortor consectetur, dictum ipsum sed, vulputate nibh. Vivamus velit diam, sodales non placerat sit amet, rutrum eu augue. Fusce ac convallis ligula. Cras nec libero pellentesque, posuere eros non, faucibus massa. Proin facilisis fermentum velit, sed porttitor ligula faucibus vitae. Nam cursus, erat at accumsan ultricies, purus dolor egestas lectus, ac cursus ipsum libero et ligula. Cras ante massa, convallis id leo vel, vehicula tincidunt orci. Donec pretium orci quis odio tristique, eu tincidunt ipsum tincidunt. Sed consectetur augue ex, et bibendum elit gravida a. Maecenas dapibus eros metus, non vestibulum dui condimentum non.</p>
         <p>Nullam a enim at mauris aliquam suscipit. In maximus scelerisque ante bibendum mollis. Nam maximus ex mi, eget elementum erat viverra eget. Vivamus condimentum neque at placerat vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ex eleifend tincidunt luctus. Vestibulum mollis dui eget nibh commodo consectetur. Nulla semper mauris pharetra diam sagittis, porta cursus ante sagittis.</p>
     </div>
-
+    
     <!-- story navbar -->
     <table class="story-nav">
         <tbody>
@@ -73,8 +74,8 @@
         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
         
         var disqus_config = function () {
-        this.page.url = "https://sparrowflightproject.web.app/stories/story-1.html";  // Replace PAGE_URL with the individual page's canonical URL variable
-        this.page.identifier = "story-1"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
+        this.page.url = "https://sparrowflightproject.web.app/stories/story-3.html";  // Replace PAGE_URL with the individual page's canonical URL variable
+        this.page.identifier = "story-3"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
         };
         
         (function() { // DON'T EDIT BELOW THIS LINE

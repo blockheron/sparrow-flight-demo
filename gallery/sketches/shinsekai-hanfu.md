@@ -1,8 +1,12 @@
+layout: page
+title: "Shinsekai Hanfu"
+permalink: /gallery/sketches/shinsekai-hanfu
+
 <!DOCTYPE html>
 <html>
     <!-- header -->
 	<head>
-        <title>Sleepy Sparrow | Sparrow Flight</title>
+        <title>Shinsekai Hanfu | Sparrow Flight</title>
 		<link rel="icon" type="image/png" href="../../img/favicon.png">
         <link rel="stylesheet" type="text/css" href="../../styles/global.css">
         <meta name="description" content="Artwork of the Flight.">
@@ -17,12 +21,13 @@
         <h1 style="text-align: center">GALLERY</h1>
     </div>
 
-    <img class="portrait" src="https://gallery.eousercontent.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1746332763062-Helvetia%20-%20Sleepy%20Sparrow.png">
     <p></p>
-    <div class="container" style="text-align: center;">
-        <h2 style="font-size: 40px; margin: 0px;">Sleepy Sparrow</h2>
-        <p class="tagline" style="margin-top: 10px;"><i>Originally drawn: 3 May 2025</i></p>
-        
+    <img class="portrait" src="https://gallery.eousercontent.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1742440076167-Helvetia%20-%20Shinsekai%20Hanfu.jpg">
+    <p></p>
+    <div class="container">
+        <h2 style="text-align: center; font-size: 40px; margin: 0px;">Shinsekai Hanfu</h1>
+        <p class="tagline" style="text-align: center; margin-top: 10px;"><i>Originally drawn: 19 March 2025</i>
+
         <!-- spacer-->
         <div style="margin: 50px;"></div>
 
@@ -34,8 +39,8 @@
             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
             
             var disqus_config = function () {
-            this.page.url = "https://sparrowflightproject.web.app/gallery/illustrations/sleepy-sparrow.html";  // Replace PAGE_URL with the individual page's canonical URL variable
-            this.page.identifier = "sleepy-sparrow"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
+            this.page.url = "https://sparrowflightproject.web.app/gallery/sketches/shinsekai-hanfu.html";  // Replace PAGE_URL with the individual page's canonical URL variable
+            this.page.identifier = "shinsekai-hanfu"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
             };
             
             (function() { // DON'T EDIT BELOW THIS LINE

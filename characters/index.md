@@ -1,3 +1,7 @@
+layout: page
+title: "Characters"
+permalink: /characters
+
 <!DOCTYPE html>
 <html>
     <!-- header -->

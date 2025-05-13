@@ -1,3 +1,7 @@
+layout: page
+title: "The Ugly Duckling: Cover Art"
+permalink: /gallery/illustrations/ugly-duckling-cover
+
 <!DOCTYPE html>
 <html>
     <!-- header -->

@@ -17,7 +17,7 @@
     <div class="start-story">
         <div style="display: flex; justify-content: center; align-items: center;"><a name="latestStoryButton"><img src="img/latestbutton.png"></a></div>
         <p></p>
-        <div style="display: flex; justify-content: center; align-items: center;"><a href="https://sparrowflightproject.web.app/stories/story-0.html"><img src="img/startbutton.png"></a></div>
+        <div style="display: flex; justify-content: center; align-items: center;"><a href="https://blockheron.github.io/sparrow-flight-demo.github.io/stories/story-0"><img src="img/startbutton.png"></a></div>
         <hr style="max-width: 600px; margin-top:50px; margin-bottom: 0px; border: none;">
     </div>
 

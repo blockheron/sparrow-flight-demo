@@ -1,3 +1,7 @@
+layout: page
+title: "Gallery"
+permalink: /gallery
+
 <!DOCTYPE html>
 <html>
     <!-- header -->

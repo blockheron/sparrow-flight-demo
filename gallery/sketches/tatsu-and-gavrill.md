@@ -1,8 +1,12 @@
+layout: page
+title: "Tatsu and Gavrill"
+permalink: /gallery/sketches/tatsu-and-gavrill
+
 <!DOCTYPE html>
 <html>
     <!-- header -->
 	<head>
-        <title>Pillow | Sparrow Flight</title>
+        <title>Tatsu and Gavrill doodles | Sparrow Flight</title>
 		<link rel="icon" type="image/png" href="../../img/favicon.png">
         <link rel="stylesheet" type="text/css" href="../../styles/global.css">
         <meta name="description" content="Artwork of the Flight.">
@@ -17,13 +21,11 @@
         <h1 style="text-align: center">GALLERY</h1>
     </div>
 
-    <p></p>
-    <img class="portrait" src="https://gallery.eousercontent.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1744003247321-Helvetia%20-%20Pillow.jpg">
-    <p></p>
+    <img class="portrait" src="https://gallery.eousercontent.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1745854040324-Helvetia%20-%20Daa.jpg">
     <div class="container" style="text-align: center;">
-        <h2 style="font-size: 40px; margin: 0px;">Pillow</h2>
-        <p class="tagline" style="margin-top: 10px;"><i>Originally drawn: 4 April 2025</i></p>
-
+        <h2 style="font-size: 40px; margin: 0px;">Tatsu and Gavrill doodles</h2>
+        <p class="tagline" style="margin-top: 10px;"><i>Originally drawn: 25 April 2025</i></p>
+        
         <!-- spacer-->
         <div style="margin: 50px;"></div>
 
@@ -35,8 +37,8 @@
             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
             
             var disqus_config = function () {
-            this.page.url = "https://sparrowflightproject.web.app/gallery/sketches/pillow.html";  // Replace PAGE_URL with the individual page's canonical URL variable
-            this.page.identifier = "pillow"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
+            this.page.url = "https://sparrowflightproject.web.app/gallery/sketches/tatsu-and-gavrill.html";  // Replace PAGE_URL with the individual page's canonical URL variable
+            this.page.identifier = "tatsu-and-gavrill"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
             };
             
             (function() { // DON'T EDIT BELOW THIS LINE

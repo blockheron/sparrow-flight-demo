@@ -1,3 +1,7 @@
+layout: page
+title: "Content Warnings"
+permalink: /content-warnings
+
 <!DOCTYPE html>
 <html>
     <!-- header -->

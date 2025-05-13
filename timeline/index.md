@@ -1,3 +1,7 @@
+layout: page
+title: "Timeline"
+permalink: /timeline
+
 <!DOCTYPE html>
 <html>
     <!-- header -->

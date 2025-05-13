@@ -1,8 +1,12 @@
+layout: page
+title: "Sparrow Flight Cover
+permalink: /gallery/illustrations/sparrow-flight-cover
+
 <!DOCTYPE html>
 <html>
     <!-- header -->
 	<head>
-        <title>Shinsekai Hanfu | Sparrow Flight</title>
+        <title>Sparrow Flight: Cover Art | Sparrow Flight</title>
 		<link rel="icon" type="image/png" href="../../img/favicon.png">
         <link rel="stylesheet" type="text/css" href="../../styles/global.css">
         <meta name="description" content="Artwork of the Flight.">
@@ -18,12 +22,18 @@
     </div>
 
     <p></p>
-    <img class="portrait" src="https://gallery.eousercontent.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1742440076167-Helvetia%20-%20Shinsekai%20Hanfu.jpg">
+    <div class="spotify">
+        <!-- SPOTIFY LINK, if any -->
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6SOqG0UGtIY63FgGYcBntp?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
     <p></p>
-    <div class="container">
-        <h2 style="text-align: center; font-size: 40px; margin: 0px;">Shinsekai Hanfu</h1>
-        <p class="tagline" style="text-align: center; margin-top: 10px;"><i>Originally drawn: 19 March 2025</i>
-
+    <img class="portrait" src="https://gallery.eocampaign1.com/45fed8ce-b513-11ef-8295-2d7ea4f395ef%2Fmedia-manager%2F1740070245637-tumblr_36fa5c6fb3dfd7aa6617248e59443305_89184237_2048.jpg">
+    <p></p>
+    <img src="">
+    <div class="container" style="text-align: center;">
+        <h2 style="text-align: center; font-size: 40px; margin: 0px">SPARROW FLIGHT: Cover Art</h2>
+        <p class="tagline" style="text-align: center; margin-top: 10px;"><i>Originally drawn: 8 September 2024</i></p>
+        
         <!-- spacer-->
         <div style="margin: 50px;"></div>
 
@@ -35,8 +45,8 @@
             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
             
             var disqus_config = function () {
-            this.page.url = "https://sparrowflightproject.web.app/gallery/sketches/shinsekai-hanfu.html";  // Replace PAGE_URL with the individual page's canonical URL variable
-            this.page.identifier = "shinsekai-hanfu"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
+            this.page.url = "https://sparrowflightproject.web.app/gallery/illustrations/sparrow-flight-cover.html";  // Replace PAGE_URL with the individual page's canonical URL variable
+            this.page.identifier = "sparrow-flight-cover"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable (really just some ID)
             };
             
             (function() { // DON'T EDIT BELOW THIS LINE
