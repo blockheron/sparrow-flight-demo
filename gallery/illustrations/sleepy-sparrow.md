@@ -1,6 +1,6 @@
 layout: page
 title: "Sleepy Sparrow"
-permalink: /gallery/illustrations/sleepy-sparrow
+permalink: /sparrow-flight-demo/gallery/illustrations/sleepy-sparrow
 
 <!DOCTYPE html>
 <html>

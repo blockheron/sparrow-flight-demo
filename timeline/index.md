@@ -1,6 +1,6 @@
 layout: page
 title: "Timeline"
-permalink: /timeline
+permalink: /sparrow-flight-demo/timeline
 
 <!DOCTYPE html>
 <html>

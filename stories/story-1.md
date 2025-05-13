@@ -1,6 +1,6 @@
 layout: page
 title: "Story 1"
-permalink: /stories/story-1
+permalink: /sparrow-flight-demo/stories/story-1
 
 <!DOCTYPE html>
 <html>

@@ -1,6 +1,6 @@
 layout: page
 title: "The Ugly Duckling: Cover Art"
-permalink: /gallery/illustrations/ugly-duckling-cover
+permalink: /sparrow-flight-demo/gallery/illustrations/ugly-duckling-cover
 
 <!DOCTYPE html>
 <html>

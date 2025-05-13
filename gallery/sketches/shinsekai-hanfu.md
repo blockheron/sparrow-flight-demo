@@ -1,6 +1,6 @@
 layout: page
 title: "Shinsekai Hanfu"
-permalink: /gallery/sketches/shinsekai-hanfu
+permalink: /sparrow-flight-demo/gallery/sketches/shinsekai-hanfu
 
 <!DOCTYPE html>
 <html>

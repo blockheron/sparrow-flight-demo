@@ -1,6 +1,6 @@
 layout: page
 title: "Characters"
-permalink: /characters
+permalink: /sparrow-flight-demo/characters
 
 <!DOCTYPE html>
 <html>

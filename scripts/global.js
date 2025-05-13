@@ -1,6 +1,6 @@
 // UPDATE THE BELOW VAR FOR EACH UPDATE!!
 var latestStory = 3;
-var storyURL = "https://blockheron.github.io/sparrow-flight-demo.github.io/stories/story-";
+var storyURL = "https://blockheron.github.io/sparrow-flight-demo/stories/story-";
 
 function storyButtons(index) {
     const pageIndices = document.getElementsByName("pageIndex");

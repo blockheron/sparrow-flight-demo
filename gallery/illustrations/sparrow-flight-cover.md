@@ -1,6 +1,6 @@
 layout: page
 title: "Sparrow Flight Cover
-permalink: /gallery/illustrations/sparrow-flight-cover
+permalink: /sparrow-flight-demo/gallery/illustrations/sparrow-flight-cover
 
 <!DOCTYPE html>
 <html>

@@ -1,6 +1,6 @@
 layout: page
 title: "Tatsu and Gavrill"
-permalink: /gallery/sketches/tatsu-and-gavrill
+permalink: /sparrow-flight-demo/gallery/sketches/tatsu-and-gavrill
 
 <!DOCTYPE html>
 <html>

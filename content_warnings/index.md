@@ -1,6 +1,6 @@
 layout: page
 title: "Content Warnings"
-permalink: /content-warnings
+permalink: /sparrow-flight-demo/content-warnings
 
 <!DOCTYPE html>
 <html>

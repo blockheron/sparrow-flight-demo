@@ -1,6 +1,6 @@
 layout: page
 title: "Gallery"
-permalink: /gallery
+permalink: /sparrow-flight-demo/gallery
 
 <!DOCTYPE html>
 <html>

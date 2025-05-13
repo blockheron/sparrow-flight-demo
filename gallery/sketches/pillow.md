@@ -1,6 +1,6 @@
 layout: page
 title: "Pillow"
-permalink: /gallery/sketches/pillow
+permalink: /sparrow-flight-demo/gallery/sketches/pillow
 
 <!DOCTYPE html>
 <html>
