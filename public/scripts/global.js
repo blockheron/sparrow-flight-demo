@@ -1,6 +1,6 @@
 // UPDATE THE BELOW VAR FOR EACH UPDATE!!
 var latestStory = 3;
-var storyURL = "https://blockheron.github.io/sparrow-flight-demo/stories/story-";
+var storyURL = "https://sparrowflightdemo.web.app/stories/story-";
 
 function storyButtons(index) {
     const pageIndices = document.getElementsByName("pageIndex");
@@ -12,8 +12,8 @@ function storyButtons(index) {
         const nextButtons = document.getElementsByName("nextButton");
         const lastButtons = document.getElementsByName("lastButton");
         for (var i = 0; i < 2; i++) {
-            nextButtons[i].setAttribute("href", storyURL + (index+1));
-            lastButtons[i].setAttribute("href", storyURL + latestStory);
+            nextButtons[i].setAttribute("href", storyURL + (index+1) + ".html");
+            lastButtons[i].setAttribute("href", storyURL + latestStory + ".html");
         }
     }
 
@@ -21,13 +21,13 @@ function storyButtons(index) {
         const firstButtons = document.getElementsByName("firstButton");
         const prevButtons = document.getElementsByName("prevButton");
         for (var i = 0; i < 2; i++) {
-            firstButtons[i].setAttribute("href", storyURL + 0);
-            prevButtons[i].setAttribute("href", storyURL + (index-1));
+            firstButtons[i].setAttribute("href", storyURL + 0 + ".html");
+            prevButtons[i].setAttribute("href", storyURL + (index-1) + ".html");
         }
     }
 }
 
 function setLatestStory() {
     const latestStoryLink = document.getElementsByName("latestStoryButton");
-    latestStoryLink[0].setAttribute("href", storyURL + latestStory);
+    latestStoryLink[0].setAttribute("href", storyURL + latestStory + ".html");
 }
